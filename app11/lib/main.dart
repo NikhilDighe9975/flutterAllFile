@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-void Main() {
-  runApp (nikhilApp());
+void main() {
+  runApp(nikhilApp());
 }
 
 class nikhilApp extends StatelessWidget {
